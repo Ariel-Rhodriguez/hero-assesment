@@ -51,3 +51,51 @@ Your component should:
 ---
 
 ## 📁 Folder Structure Example
+
+.
+├── components
+│   └── Hero
+│       ├── Hero.jsx
+│       └── Hero.module.css
+├── pages
+│   └── demo.js
+├── public
+│   └── sample-image.jpg
+├── README.md
+└── package.json
+
+---
+
+## 🎯 Task
+
+1. Fork this repo  
+2. Build the `Hero` component inside `components/Hero`  
+3. Create a demo page at `/demo` that shows 2–3 different uses:
+   - One with default placement  
+   - One using different `placeTitle` / `placeDescription` values  
+   - One with longer text to test layout flexibility  
+4. Submit a Pull Request when you’re ready  
+
+---
+
+## 🧩 Bonus (Optional)
+
+- Add simple hover or fade-in animation  
+- Use semantic HTML elements (e.g. `<header>`, `<h1>`, `<p>`, etc.)  
+- Make sure it’s keyboard accessible  
+
+---
+
+## ✅ Evaluation Criteria
+
+- Code readability and structure  
+- Use of props and layout logic  
+- CSS organization (modularity, responsiveness, maintainability)  
+- Ability to follow detailed requirements  
+- Developer empathy and UX quality  
+
+---
+
+Thanks for your time—we’re excited to see what you build!
+
+— Rho Marketing Engineering Team
